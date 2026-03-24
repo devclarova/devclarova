@@ -26,12 +26,12 @@
 
 | 프로젝트 | 설명 | 기술 스택 | 링크 |
 |---------|------|----------|------|
-| **Project ARA** | K-컬처 기반 글로벌 한국어 학습 SNS 플랫폼 | React · TypeScript · Supabase | [배포](https://project-ara.vercel.app) · [GitHub](https://github.com/devclarova/project_ara) |
-| **Dream-In** | 감정 기반 꿈 기록 & AI 해몽 다이어리 | React · JavaScript · OpenAI API | [배포](https://dream-in.vercel.app) · [GitHub](https://github.com/devclarova/Dream-In) |
+| **Project ARA** | K-컬처 기반 글로벌 한국어 학습 SNS 플랫폼 | React · TypeScript · Supabase 등 | [배포](https://project-ara.vercel.app) · [GitHub](https://github.com/devclarova/project_ara) |
+| **Dream-In** | 감정 기반 꿈 기록 & AI 해몽 다이어리 | React · JavaScript · OpenAI API 등 | [배포](https://dream-in.vercel.app) · [GitHub](https://github.com/devclarova/Dream-In) |
 
 ---
 
 ## 📬 Contact
 
 - Email: dev.clarova@gmail.com
-- Portfolio: [Notion](https://www.notion.so/Frontend-Developer-J-H-Park-2539c06a0294801a9bf0f22ea9805d91)
+- Portfolio: [Notion](https://www.notion.so/Frontend-Developer-J-H-Park-32823af766c380b0a6a9cb21cc2e76d0?source=copy_link)
