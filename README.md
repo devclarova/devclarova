@@ -1,15 +1,60 @@
-# 안녕하세요, 박재현입니다 👋
+# 박재현 | Frontend Developer 👋😉
 
-### 기획과 개발의 경계를 넘나드는 프론트엔드 개발자입니다.
+## 기획과 개발의 경계를 넘나드는 프론트엔드 개발자입니다.
 
-사용자 인터뷰로 문제를 먼저 정의하고,  
+사용자 인터뷰로 문제를 먼저 정의하고,
 그 문제를 해결하는 기능을 직접 설계하고 구현합니다.
+작은 UX 개선이 서비스의 신뢰를 만든다고 믿습니다.
+
+- 🎯 스마트웹&콘텐츠개발 프론트엔드 과정 수료 및 팀 프로젝트 2개 완료 (두 프로젝트 팀장)
+- 🔍 사용자 리서치 → 기획 → 구현까지 직접 주도
+- 🛠 실시간 채팅, 인증 시스템, 어드민 패널 등 실서비스 수준 구현 경험
+- 💡 개발 과정에서 마주친 문제를 원인부터 파고드는 방식으로 해결
+
+🌱 현재 프론트엔드 개발자로 취업 준비 중입니다.
+
+### 📎 [포트폴리오 바로가기](https://www.notion.so/Frontend-Developer-J-H-Park-32823af766c380b0a6a9cb21cc2e76d0?source=copy_link)
+
+---
+
+## 🚀 Projects
+
+| 프로젝트 | 설명 | 기술 스택 | 링크 |
+|---------|------|----------|------|
+| **Project ARA** | K-컬처 기반 글로벌 한국어 학습 SNS 플랫폼 | React · TypeScript · Supabase 등 | [배포](https://project-ara.vercel.app) · [GitHub](https://github.com/devclarova/project_ara) |
+| **Dream-In** | 감정 기반 꿈 기록 & AI 해몽 다이어리 | React · JavaScript · OpenAI API 등 | [배포](https://dream-in.vercel.app) · [GitHub](https://github.com/devclarova/Dream-In) |
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devclarova&show_icons=true&theme=dark&hide_border=true&hide=stars,issues,contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devclarova&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 🔥 Problem-Solving
+
+개발 과정에서 마주친 기술적 문제들을
+**문제 정의 → 원인 분석 → 해결 → 회고** 순서로 정리했습니다.
+
+| 문제 | 프로젝트 | 핵심 기술 |
+|------|---------|----------|
+| 실시간 구독 중복으로 메시지 2~3번 수신 | ARA | Supabase Realtime · useEffect cleanup |
+| 인증 상태 확정 이전에 라우트가 결정되던 문제 | ARA | React Router · Supabase Auth |
+| Optimistic UI 타이밍 충돌로 메시지 중복 렌더링 | ARA | tempId → realId 교체 패턴 |
+| RLS 정책 오류로 프로필 생성/조회 전체 차단 | ARA | Supabase RLS · auth.uid() |
+| 페이지 이동 시 데이터가 undefined로 전달되던 문제 | Dream-In | React Router state |
+| 즐겨찾기 id 충돌로 목록 중복 렌더링 | Dream-In | React key · Context API |
+
+📎 [전체 트러블슈팅 보기](https://www.notion.so/Frontend-Developer-J-H-Park-32823af766c380b0a6a9cb21cc2e76d0?source=copy_link)
 
 ---
 
 ## 🛠 Tech Stack
 
-**주력**  
+**주력**
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -26,28 +71,22 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**사용 가능**  
+**사용 가능**
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
 
-**협업 및 배포**  
+**협업 및 배포**
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
----
-
-## 🚀 Projects
-
-| 프로젝트 | 설명 | 기술 스택 | 링크 |
-|---------|------|----------|------|
-| **Project ARA** | K-컬처 기반 글로벌 한국어 학습 SNS 플랫폼 | React · TypeScript · Supabase 등 | [배포](https://project-ara.vercel.app) · [GitHub](https://github.com/devclarova/project_ara) |
-| **Dream-In** | 감정 기반 꿈 기록 & AI 해몽 다이어리 | React · JavaScript · OpenAI API 등 | [배포](https://dream-in.vercel.app) · [GitHub](https://github.com/devclarova/Dream-In) |
 
 ---
 
 ## 📬 Contact
 
-- Email: dev.clarova@gmail.com
-- Portfolio: [Notion](https://www.notion.so/Frontend-Developer-J-H-Park-32823af766c380b0a6a9cb21cc2e76d0?source=copy_link)
+- 📧 Email: dev.clarova@gmail.com
+- 📁 Portfolio: [Notion 포트폴리오](https://www.notion.so/Frontend-Developer-J-H-Park-32823af766c380b0a6a9cb21cc2e76d0?source=copy_link)
